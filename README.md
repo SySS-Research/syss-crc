@@ -6,7 +6,7 @@ Inspired by
 * [Online CRC Calculator](https://crccalc.com/) by Anton Isakov 
 * [Sunshine2k's CRC Calculator](http://www.sunshine2k.de/coding/javascript/crc/crc_js.html) by Bastian Molkenthin
 
-**Caution:** This simple Python implementation is not very fast, but it may be good enough for some test cases. If search spaces are quite large and/or more speed is required, consider using other CRC tools like bruteforce-crc(https://github.com/sitsec/bruteforce-crc).
+**Caution:** This simple Python implementation is not very fast, but it may be good enough for some test cases. If search spaces are quite large and/or more speed is required, consider using other CRC tools like [bruteforce-crc](https://github.com/sitsec/bruteforce-crc).
 
 ## Usage
 
